@@ -7,7 +7,7 @@ Welcome! Here is a curated collection of my UI/UX case studies and interactive A
 ##  Featured Prototypes & Projects
 
 | Project Name | Category | Tech / Tools  | Live Demo |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | **Awarathon - Admin Journey** | Workflow Optimization | Gemini, Lovable  | [View Prototype](https://premium-evolve-layout.lovable.app) |
 | **AI Assistant Dashboard** | Web App / AI | Lovable, React | [View Prototype](https://your-lovable-link.com) |
 | **E-Commerce Checkout Flow** | Mobile UI | Figma  | [Figma Link](https://figma.com/...) |
