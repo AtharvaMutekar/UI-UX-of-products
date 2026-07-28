@@ -8,15 +8,14 @@ Welcome! Here is a curated collection of my UI/UX case studies and interactive A
 
 | Project Name | Category | Tech / Tools  | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **Awarathon - Admin Journey** | Workflow Optimization | Gemini, Lovable  | [View Prototype](https://premium-evolve-layout.lovable.app) |
-| **Competency - LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
-| **Awr** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Awarathon - Admin Creation Journey** | Workflow Optimization | Gemini, Lovable  | [View Prototype](https://premium-evolve-layout.lovable.app) |
+| **Competency - Learner Journey** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Competency - Manager Journey** | Web App  | Lovable, Gemini | [View Prototype](https://stellar-spotlight-dash.lovable.app) |
+| **Competency - Competency Journey** | Web App  | Lovable, Gemini | [View Prototype](https://awarathon-engine.lovable.app) |
 | **Awarathon - New Design** | Mobile UI  | Lovable, Prompt Genie | [View Prototype](https://web-to-mobile-sparkle.lovable.app) |
-| **Competency -LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
-| **Competency -LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
 | **Bohrium** |  Web App  | Lovable, Gemini | [View Prototype](https://bohrium-nexus-hub.lovable.app) |
 ---
 
 ## 🛠️ Skills & Process
 * **Research & Wireframing:** User journeys, low-fi wireframes, info architecture.
-* **Prototyping & AI:** Figma interactive components, Lovable rapid AI development.
+* **Prototyping & AI:**  Lovable rapid AI development.
