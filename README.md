@@ -1,12 +1,19 @@
-# UI-UX-of-products
-UI/UX design documentation, wireframes, and prototypes for product design projects.
+# 🎨 UI/UX & AI Product Design Portfolio
 
-Project Title & Overview: A short summary of the product.
+Welcome! Here is a curated collection of my UI/UX case studies and interactive AI prototypes built with Figma and Lovable.
 
-Figma / Adobe XD Link: A direct view link to the interactive Figma file or prototype.
+---
 
-Problem Statement & User Research: Brief insights into what user pain point you solved.
+## 🚀 Featured Prototypes & Projects
 
-Key Features & UI Visuals: Insert exported screenshots or animated GIFs of key user flows.
+| Project Name | Category | Tech / Tools | Case Study | Live Demo |
+| :--- | :--- | :--- | :--- | :--- |
+| **Awarathon - Admin Journey** | Workflow Optimization | Figma, Lovable | [Read Case Study](./awarathon-admin-journey.md) | [View Prototype](https://your-lovable-link.com) |
+| **AI Assistant Dashboard** | Web App / AI | Lovable, React | [Read Case Study](./ai-dashboard.md) | [View Prototype](https://your-lovable-link.com) |
+| **E-Commerce Checkout Flow** | Mobile UI | Figma | [Read Case Study](./ecommerce-checkout.md) | [Figma Link](https://figma.com/...) |
 
-Design System / Style Guide: Display color codes (HEX), typography, and component variants so developers can easily reference them.
+---
+
+## 🛠️ Skills & Process
+* **Research & Wireframing:** User journeys, low-fi wireframes, info architecture.
+* **Prototyping & AI:** Figma interactive components, Lovable rapid AI development.
