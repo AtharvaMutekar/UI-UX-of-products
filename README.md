@@ -1,16 +1,16 @@
-# 🎨 UI/UX & AI Product Design Portfolio
+#  UI/UX & AI Product Design Portfolio
 
 Welcome! Here is a curated collection of my UI/UX case studies and interactive AI prototypes built with Figma and Lovable.
 
 ---
 
-## 🚀 Featured Prototypes & Projects
+##  Featured Prototypes & Projects
 
-| Project Name | Category | Tech / Tools | Case Study | Live Demo |
+| Project Name | Category | Tech / Tools  | Live Demo |
 | :--- | :--- | :--- | :--- | :--- |
-| **Awarathon - Admin Journey** | Workflow Optimization | Figma, Lovable | [Read Case Study](./awarathon-admin-journey.md) | [View Prototype](https://your-lovable-link.com) |
-| **AI Assistant Dashboard** | Web App / AI | Lovable, React | [Read Case Study](./ai-dashboard.md) | [View Prototype](https://your-lovable-link.com) |
-| **E-Commerce Checkout Flow** | Mobile UI | Figma | [Read Case Study](./ecommerce-checkout.md) | [Figma Link](https://figma.com/...) |
+| **Awarathon - Admin Journey** | Workflow Optimization | Gemini, Lovable  | [View Prototype](https://premium-evolve-layout.lovable.app) |
+| **AI Assistant Dashboard** | Web App / AI | Lovable, React | [View Prototype](https://your-lovable-link.com) |
+| **E-Commerce Checkout Flow** | Mobile UI | Figma  | [Figma Link](https://figma.com/...) |
 
 ---
 
