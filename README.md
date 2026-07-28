@@ -1,6 +1,6 @@
 #  UI/UX & AI Product Design Portfolio
 
-Welcome! Here is a curated collection of my UI/UX case studies and interactive AI prototypes built with Figma and Lovable.
+Welcome! Here is a curated collection of my UI/UX case studies and interactive AI prototypes built with Lovable.
 
 ---
 
@@ -9,9 +9,12 @@ Welcome! Here is a curated collection of my UI/UX case studies and interactive A
 | Project Name | Category | Tech / Tools  | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **Awarathon - Admin Journey** | Workflow Optimization | Gemini, Lovable  | [View Prototype](https://premium-evolve-layout.lovable.app) |
-| **Competency -LearnerJourney** | Web App  | Lovable, Prompt Ganie | [View Prototype](https://awarathon-connect.lovable.app) |
-| **E-Commerce Checkout Flow** | Mobile UI | Figma  | [Figma Link](https://figma.com/...) |
-
+| **Competency - LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Awr** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Awarathon - New Design** | Mobile UI  | Lovable, Prompt Genie | [View Prototype](https://web-to-mobile-sparkle.lovable.app) |
+| **Competency -LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Competency -LearnerJourney** | Web App  | Lovable, Prompt Genie | [View Prototype](https://awarathon-connect.lovable.app) |
+| **Bohrium** |  Web App  | Lovable, Gemini | [View Prototype](https://bohrium-nexus-hub.lovable.app) |
 ---
 
 ## 🛠️ Skills & Process
